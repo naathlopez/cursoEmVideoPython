@@ -1,1 +1,8 @@
-teste 123
+#Crie um programa que escreva “Olá, Mundo” na tela
+
+msg = 'Olá, Mundo!'
+print(msg)
+
+#Opção 2:
+print('Olá, Mundo!')
+
