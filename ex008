@@ -1,0 +1,2 @@
+m = float(input('Valor em metros: '))
+print(f'{m} metros equivalem a {m*100:.0f} centímetros, e {m*1000:.0f} milímetros.')
